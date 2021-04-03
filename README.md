@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ornella
+- 👀 I’m interested in front-end development and data analysis
+- 🌱 I’m currently learning Python, React and SQL
