@@ -1,5 +1,5 @@
 <b>Hi, I’m Ornella!  :cherry_blossom:</b>
-I'm a front-end developer who is also interested in data science. :computer:
+I'm a front-end developer who is always learning and trying new things. :computer:
 
 Working with:
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
