@@ -8,7 +8,7 @@ Working with:
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-Self-studying Computer Science with the help of <a href="https://teachyourselfcs.com/" target="_blank">this guide</a>. Currently going through "Structure and Interpretation of Computer Programs" (Abelson and Sussman).
+Self-studying Computer Science with the help of <a href="https://github.com/ossu/computer-science" target="_blank">this guide</a>.
 
 My hobbies include reading, ballet and playing some videogames.
 
